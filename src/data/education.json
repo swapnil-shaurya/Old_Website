@@ -1,0 +1,36 @@
+{
+    "education": [
+      {
+        "id": 0,
+        "link": "https://hsadvancement.harmonytx.org/",
+        "company": "Harmony School of Advancement",
+        "title": "High School Diploma",
+        "dateFrom": "August 2016",
+        "dateTo": "May 2020",
+        "info": [
+          "STEM: Technology specialization"
+        ],
+        "stack": ["AP CS Principles", "AP CS A", "AP Calculus BC", "AP Statistics"],
+        "logoheight": 80,
+        "colourPrimary": "#4285F4",
+        "colourSecondary": "#FFFFFF"
+      },
+      {
+        "id": 1,
+        "link": "https://www.utexas.edu/",
+        "company": "The University of Texas at Austin",
+        "title": "Dual Bachelor's Degree",
+        "dateFrom": "August 2020",
+        "dateTo": "May 2024",
+        "info": [
+          "B.S. Computer Science",
+          "B.A. Economics"
+        ],
+        "stack": ["Data Structures", "Algorithms", "Software Eng.", "OS", "Intro. to ML", "Computer Arch.", "Linear Algebra", "Multivar Cal.", "Probability", "Statistics"],
+        "logowidth": 80,
+        "colourPrimary": "#bf5700",
+        "colourSecondary": "#FFFFFF"
+      }
+    ]
+  }
+  

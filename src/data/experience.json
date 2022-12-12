@@ -1,0 +1,75 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://cloud.google.com/document-ai",
+      "company": "Google",
+      "title": "Software Engineer Intern",
+      "dateFrom": "August 2022",
+      "dateTo": "December 2022",
+      "info": [
+        "Document AI team in Google Cloud",
+        "Implemented E2E process for open-source PyTorch models on GCP's Vertex AI",
+        "Developed python data processing libraries with tests & E2E integration",
+        "Created new prediction endpoint for Document AI's RESTful API"
+      ],
+      "stack": ["Python", "PyTorch", "GCP (Vertex AI)", "REST APIs", "Docker", "C++"],
+      "logoheight": 80,
+      "colourPrimary": "#4285F4",
+      "colourSecondary": "#FFFFFF"
+    },
+    {
+      "id": 1,
+      "link": "https://www.schwab.com/",
+      "company": "Charles Schwab",
+      "title": "Software Engineer Intern",
+      "dateFrom": "May 2022",
+      "dateTo": "August 2022",
+      "info": [
+        "Worked on Client Data Management Technology team",
+        "Built modern distributed micro-services using Spring Boot and Gradle",
+        "Implemented REST APIs to optimize data retrieval for 40 million accounts",
+        "Wrote SQL queries to fetch/validate data and JUnit cases to test features"
+      ],
+      "stack": ["Java", "SQL", "SpringBoot", "Gradle", "REST APIs", "Databases","Cloud"],
+      "logowidth": 80,
+      "colourPrimary": "#009EDC",
+      "colourSecondary": "#FFFFFF"
+    },
+    {
+      "id": 2,
+      "link": "https://www.mdanderson.org/",
+      "company": "MD Anderson Cancer Center",
+      "title": "Data Analytics Research Intern",
+      "dateFrom": "August 2021",
+      "dateTo": "December 2021",
+      "info": [
+        "Studied demographic/health-related risk factors to COVID-19 in Texas",
+        "Collected/processed data with MySQL",
+        "Created models mapping data in Python with SciKit-Lean",
+        "Applied K-means clustering and principle component analysis for significant features"
+      ],
+      "stack": ["Python", "MySQL", "SciKit-Learn", "K-Means Clustering"],
+      "logowidth": 80,
+      "colourPrimary": "#d42e12",
+      "colourSecondary": "#FFFFFF"
+    }, 
+    {
+      "id": 3,
+      "link": "https://www.utexas.edu/",
+      "company": "The University of Texas at Austin",
+      "title": "Machine Learning Research Assistant",
+      "dateFrom": "August 2020",
+      "dateTo": "June 2021",
+      "info": [
+        "Authored research paper on white noise reduction using GANs",
+        "Developed StyleGAN that implements pixel2Style2pixel framework in Python with PyTorch",
+        "Trained model on TACC supercomputer for 93% efficacy in removing white noise"
+      ],
+      "stack": ["Python", "PyTorch", "SciKit-Learn", "GANs", "Research"],
+      "logowidth": 80,
+      "colourPrimary": "#bf5700",
+      "colourSecondary": "#FFFFFF"
+    }
+  ]
+}

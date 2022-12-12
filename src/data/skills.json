@@ -1,0 +1,59 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "Java",
+      "amount": "95"
+    },
+    {
+      "id": 1,
+      "skillName": "Python",
+      "amount": "95"
+    },
+    {
+      "id": 2,
+      "skillName": "C/C++",
+      "amount": "85"
+    },
+    { 
+      "id": 3, 
+      "skillName": "Javascript", 
+      "amount": "85" 
+    },
+    {
+      "id": 4,
+      "skillName": "React",
+      "amount": "80"
+    },
+    {
+      "id": 5,
+      "skillName": "REST APIs",
+      "amount": "80"
+    },
+    {
+      "id": 6,
+      "skillName": "Databases",
+      "amount": "75"
+    },
+    {
+      "id": 7,
+      "skillName": "GCP",
+      "amount": "70"
+    },
+    {
+      "id": 8,
+      "skillName": "AWS",
+      "amount": "70"
+    },
+    {
+      "id": 9,
+      "skillName": "PyTorch",
+      "amount": "65"
+    },
+    { 
+      "id": 10, 
+      "skillName": "TensorFlow", 
+      "amount": "55" 
+    }
+  ]
+}

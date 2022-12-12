@@ -1,0 +1,93 @@
+.resume {
+  background-color: #2c323f;
+}
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 20px;
+  max-width: 600px;
+  margin: 50px auto 0 auto;
+}
+.links a, .links img {
+  width: 40px;
+  height: 40px;
+}
+.home {
+  background-color: #2c323f;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: calc(100vh + 63px);
+  z-index: 1000;
+}
+@media screen and (min-width: 960px) {
+  .resume-content {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .skill-name {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px 0px 0px 2px;
+    left: 0;
+    width: 80px;
+    height: 30px;
+    font-size: 12px;
+    background-color: #39b175;
+    font-weight: 600;
+    color: white;
+  }
+}
+@media screen and (max-width: 959px) and (min-width: 600px) {
+  .resume-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .skill-name {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px 0px 0px 2px;
+    left: 0;
+    width: 80px;
+    height: 30px;
+    font-size: 12px;
+    background-color: #39b175;
+    font-weight: 600;
+    color: white;
+  }
+}
+@media screen and (max-width: 599px) {
+  .resume-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .skills {
+    width: 100%;
+  }
+  .skill-name {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px 0px 0px 2px;
+    left: 0;
+    width: 65px;
+    height: 30px;
+    font-size: 10px;
+    background-color: #39b175;
+    font-weight: 600;
+    color: white;
+  }
+}
